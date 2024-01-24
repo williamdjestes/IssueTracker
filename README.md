@@ -17,6 +17,8 @@ Issue Tracker GUI is a Java application that allows users to track and manage is
 
 ## Getting Started
 
+You can simply download the JAR and run it to get started, or edit the java file and compile yourself!
+
 ### Prerequisites
 
 - Java Development Kit (JDK) installed.
